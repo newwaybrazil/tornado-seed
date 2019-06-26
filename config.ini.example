@@ -1,0 +1,11 @@
+[mongodb]
+connection_string: mongodb://localhost:27017
+database: test
+user: admin
+password: admin
+
+[api]
+host: localhost
+secret: secret
+port: 8089
+root_token: root_token
